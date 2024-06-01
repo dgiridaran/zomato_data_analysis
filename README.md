@@ -74,9 +74,9 @@ Even though the relationship is clear, we dropping this column because it may mi
 And all other features are not affecting the cost that much.
 
 
-**To view the notebook** -> [Notebook]('notebooks/zomato_data_analysis.ipynb')
+**To view the notebook** -> [Notebook](notebooks/zomato_data_analysis.ipynb)
 
-**To use the model** -> [Streamlit app]('https://zomatodataanalysis-by-giridaran.streamlit.app/')
+**To use the model** -> [Streamlit app](https://zomatodataanalysis-by-giridaran.streamlit.app/)
 
 
 
