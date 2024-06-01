@@ -1,7 +1,7 @@
 
 # Zomato Data Analysis
 
-In this project we try to solve to 2 major real world problems with zomato dataset.
+In this project we try to solve to 2 real world problems with zomato dataset.
 
 ## Problems
 
