@@ -7,7 +7,7 @@ import numpy as np
 
 
 # Title of the app
-st.title("Zomato price predction for 2 person in Bangalore")
+st.title("Zomato price prediction for 2 person in Bangalore")
 
 # Dropdown selection
 #location dropdown options
