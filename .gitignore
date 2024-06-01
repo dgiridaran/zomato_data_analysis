@@ -2,3 +2,8 @@ zomato.csv
 ML mini project - 3.pdf
 .ipynb_checkpoints
 .ipynb_checkpoints/
+data/
+.data/
+venv
+.venv
+venv/
