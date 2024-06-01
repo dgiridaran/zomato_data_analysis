@@ -28,7 +28,7 @@ with open('artifacts/cuisine_types.json', 'r') as json_file:
 # Inputs
 location = st.selectbox("Select an location", location_options)
 rating = st.slider('Rating', min_value=0.0, max_value=5.0, value=2.5, step=0.2)
-restorent_types = st.multiselect('Choose restorent types', restorent_type_options)
+restorent_types = st.multiselect('Choose restaurants types', restorent_type_options)
 cuisine_types = st.multiselect('Choose cuisines', cuisine_type_options)
 book_table = st.selectbox("book table", ['Yes', 'No'])
 book_table_l = [1 if book_table == 'Yes' else 0]
